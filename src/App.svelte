@@ -1,6 +1,6 @@
 <main>
   <div class="test"></div>
-  
+
   <div class="test-nesting"></div>
 </main>
 
@@ -17,9 +17,9 @@
       height: 10px;
     }
     &::before {
-    left: 0;
-    background: red;
-  }
+      left: 0;
+      background: red;
+    }
     &::after {
       right: 0;
       background: green;
